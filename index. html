@@ -9,7 +9,7 @@
         document.addEventListener('DOMContentLoaded', function () {
             var $Whatsapp = 'https://t.me/Godoflooter';
             var $telegram = 'https://t.me/godoflooter';
-            var $background = 'https://iili.io/JAFzczb.webp';
+            var $background = 'https://iili.io/JNkooiv.jpg';
 
             // Replace the placeholder href values with actual URLs
             document.getElementById('whatsappButton').href = $Whatsapp;
@@ -92,15 +92,15 @@
         }
 
         .whatsapp-button, .telegram-button {
-            padding: 10px;
-            font-size: 16px;
+            padding: 16px;
+            font-size: 26px;
             text-align: center;
             text-decoration: none;
             color: #fff;
             cursor: pointer;
             border: none;
-            border-radius: 5px;
-            width: 250px;
+            border-radius: 9px;
+            width: 270px;
         }
 
         .whatsapp-button {
@@ -118,7 +118,7 @@
     </style>
 </head>
 <body>
-    <h1 class="neonText">Agents</h1>
+    <h1 class="neonText">GOL</h1>
     <div class="button-container">
         <a href="" class="whatsapp-button" id="whatsappButton">
             <i class="fab fa-whatsapp" style="vertical-align: middle;"></i> WhatsApp
